@@ -1,3 +1,5 @@
+![SegyViewer](https://github.com/uqzzhao/SegyViewer/blob/master/examples/segyviewer.png)
+
 # SegyViewer
 A Qt C++ SEG-Y file viewer for microseismic SEG-Y data. Both 1C/3C waveforms and header information can be displayed. 
 
