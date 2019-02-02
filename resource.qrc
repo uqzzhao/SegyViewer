@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/logo.ico</file>
+        <file>resources/logo.png</file>
+        <file>resources/open.ico</file>
+        <file>resources/open.png</file>
+        <file>resources/quit.ico</file>
+        <file>resources/quit.png</file>
+        <file>resources/start.jpg</file>
+        <file>resources/start.png</file>
+    </qresource>
+</RCC>
