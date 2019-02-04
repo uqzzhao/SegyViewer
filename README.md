@@ -14,4 +14,4 @@ To build this program from source codes, you need the following tools and depend
 GPL v3.
 
 ## Authorship
-SegyViewer was written in 2016. The sole contributor is [Zhengguang Zhao](https://www.researchgate.net/profile/Zhengguang_Zhao2), who now work for DeepListen on part-time basis.
+SegyViewer was written in 2016. The sole contributor is [Zhengguang Zhao](https://www.researchgate.net/profile/Zhengguang_Zhao2), who now works for DeepListen on part-time basis.
